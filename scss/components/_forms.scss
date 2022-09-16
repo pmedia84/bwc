@@ -1,0 +1,17 @@
+//Form Grid, cols provide 2 columns 50% on larger screens
+.form-row{
+    gap: 0.5rem;
+    flex-direction: column;
+}
+
+@media(min-width: $md){
+    .form-col{
+        width: 50%;
+       
+        
+    }
+}
+
+select{
+    width: 100%;
+}

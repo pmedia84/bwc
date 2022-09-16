@@ -1,0 +1,31 @@
+.quote-request{
+
+   background-color: $secondary;
+   h2{
+    color: $primary;
+   } 
+
+   label{
+    color: #fff;
+   }
+   
+    padding: 1rem;
+    border-radius: $border-radius;
+    flex-grow: 0.5;
+    .form-floating > label,input,textarea{
+        color: #212529;
+    }
+    select option{
+        font-family: $font-family-sans-serif;
+    }
+    textarea{
+        height: 120px !important;
+    }
+    @media(min-width: $md){
+        .form-col{
+            width: 100%;
+           
+            
+        }
+    }
+}

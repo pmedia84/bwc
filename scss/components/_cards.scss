@@ -1,0 +1,96 @@
+//Full width card that on full screens
+
+.card-fw,.card-horizontal-outer{
+    border-radius: $border-radius;
+    border: 1px solid $tertiary-col;
+    
+}
+
+.card-body{
+    padding: $padding-1;
+}
+.card-horizontal-body{
+    padding: $padding-1;
+    background-color: rgba($secondary, 0.75);
+   
+}
+.card-horizontal-imgcap img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+.card-horizontal-outer div:first-of-type img{
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+}
+
+.card-horizontal-outer div:first-of-type{
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+}
+
+.card-horizontal-outer div:last-of-type img{
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
+}
+
+.card-horizontal-outer div:last-of-type{
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
+}
+
+
+@media (min-width:$md){
+    .card-horizontal-outer{
+        display: flex;
+    }
+
+
+    .card-horizontal-imgcap, .card-horizontal-body{
+        width: 50%;
+    }
+    .card-horizontal-outer div:first-of-type img{
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: $border-radius;
+    }
+    
+    .card-horizontal-outer div:first-of-type{
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: $border-radius;
+    }
+    
+    .card-horizontal-outer div:last-of-type img{
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+    }
+    
+    .card-horizontal-outer div:last-of-type{
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+    }
+    .card-container .card-horizontal-outer:nth-of-type(even){
+           //outer card container to switch even items and change styling as needed
+        flex-direction: row-reverse;
+
+        .card-horizontal-body{
+            border-top-left-radius: $border-radius;
+            border-bottom-left-radius: $border-radius;
+            border-bottom-right-radius: 0;
+            border-top-right-radius: 0;
+        }
+        .card-horizontal-imgcap img{
+            border-top-left-radius: 0;
+            border-top-right-radius: $border-radius;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: $border-radius;
+        }
+
+    }
+
+}

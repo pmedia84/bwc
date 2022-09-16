@@ -1,0 +1,44 @@
+.footer-container{
+    padding-block: $spacer-6;
+    padding-inline: 1rem;
+
+    p{
+        color: $white;
+    }
+@media(min-width: $md){
+    display: flex;
+    justify-content: space-between;
+    .logo{
+        align-self: flex-start;
+    }
+}
+}
+
+.footer-links{
+    li{
+        list-style-type: none;
+        color: $primary;
+    }
+    ul{
+        padding-left: 0;
+    }
+    a{
+        text-decoration: none
+    }
+}
+
+.footer-subtitle{
+    color: $white;
+}
+
+.copyright{
+    padding-block: $spacer-1;
+    p{
+        color: $white;
+    }
+    @media(min-width:$md){
+        display:flex;
+        justify-content: space-between;
+        padding-inline: $spacer-1;
+    }
+}

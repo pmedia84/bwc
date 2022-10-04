@@ -1,0 +1,52 @@
+//Contact details list styles
+
+.contact-details{
+
+    .contact-details-item{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px dotted;
+        margin-block: $spacer-3;
+        svg{
+            height: 25px;
+        }
+       svg path {
+        fill: $primary;
+       }
+
+    }
+
+}
+
+#contact-us{//specific settings just for teh contact us card, stop it growing when the message us box has been opened
+    height: min-content;
+}
+//Contact form that is hidden unless clicked
+
+.contact-form{
+    display: none;
+    border: 1px solid $tertiary-col;
+    padding: 45px $spacer-1;
+    border-radius: $border-radius;
+    position: relative;
+    .close{
+        display: block;
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        cursor: pointer;
+        svg path{
+            fill: $tertiary-col;
+        }
+        svg{
+            height: 35px;
+        }
+    }
+    button{
+        width: 100%;
+    }
+    #message{//text area, uses ID selector as it carries more specificity due to BS styling
+        height: 150px;
+    }
+}

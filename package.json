@@ -2,17 +2,13 @@
   "name": "bootstrap-npm-starter",
   "version": "5.2.1",
   "private": false,
-  "description": "Demo project for building a Bootstrap powered site via npm.",
-  "author": "mdo",
+  "description": "",
+  "author": "Parrot Media",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twbs/bootstrap-npm-starter.git"
+    "url": "git+https://github.com/pmedia84/bwc.git"
   },
-  "bugs": {
-    "url": "https://github.com/twbs/bootstrap-npm-starter/issues"
-  },
-  "homepage": "https://github.com/twbs/bootstrap-npm-starter#readme",
   "scripts": {
     "build": "npm run css",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o assets/css/",
@@ -23,7 +19,6 @@
     "server": "live-server --port=3000",
     "start": "npm-run-all --parallel watch server",
     "watch": "nodemon -e html,scss -x \"npm run css\""
-   
   },
   "keywords": [
     "bootstrap",
@@ -39,6 +34,7 @@
     "popper": "^1.0.1"
   },
   "devDependencies": {
+    "@google-cloud/recaptcha-enterprise": "^3.0.4",
     "@popperjs/core": "^2.9.2",
     "autoprefixer": "^10.4.7",
     "bootstrap": "^5.2.1",
@@ -52,5 +48,4 @@
     "stylelint": "^14.9.1",
     "stylelint-config-twbs-bootstrap": "^4.0.0"
   }
-
 }

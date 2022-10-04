@@ -1,44 +1,101 @@
-.footer-container{
-    padding-block: $spacer-6;
-    padding-inline: 1rem;
+footer{
+    background-color: $secondary;
+}
+.footer-container{//container for footer
+    border-bottom: 1px solid $primary;
+    padding: 1rem;
+    display: grid;
+    gap: $spacer-2;
+    @media (min-width:$md) {
+        grid-template-columns: 250px 1fr 1fr;
+    }
 
     p{
         color: $white;
     }
-@media(min-width: $md){
+    a:hover{
+        opacity: 0.8;
+        transition: opacity 300ms ease-out;
+    }
+}
+
+//settings for each column
+.footer-cta{//Call to action section
+    text-align: center;
+    p{
+        font-size: 1.5rem;
+    }
+
+}
+
+.footer-contact{
+    display: grid;
+    gap: $spacer-2;
+ @media(min-width:$sm){
+    grid-template-columns: 1fr 1fr;
+ }
+ @media(min-width:$md){
+    grid-template-columns: 1fr;
+ }
+ @media(min-width:$lg){
+    grid-template-columns: 1fr 1fr;
+ }
+
+    img{
+        height: 25px;
+        &:hover{
+            opacity: 0.8;
+            transition: opacity 300ms ease-out;
+        }
+    }
+    p{
+        font-size: 1.5rem;
+    }
+}
+.footer-contact-follow{
+    max-width: 250px;
+    img{
+        border: 1px solid $primary;
+        border-radius: 50%;
+        padding: 0.1rem;
+        height: 29px;
+    }
+}
+.footer-contact-details{
+    max-width: 250px;
     display: flex;
-    justify-content: space-between;
-    .logo{
-        align-self: flex-start;
-    }
-}
-}
-
-.footer-links{
-    li{
-        list-style-type: none;
-        color: $primary;
-    }
-    ul{
-        padding-left: 0;
-    }
-    a{
-        text-decoration: none
-    }
-}
-
-.footer-subtitle{
-    color: $white;
-}
-
-.copyright{
-    padding-block: $spacer-1;
-    p{
-        color: $white;
-    }
-    @media(min-width:$md){
-        display:flex;
+    flex-direction: column;
+    gap: $spacer-2;
+    span{
+        display: flex;
         justify-content: space-between;
-        padding-inline: $spacer-1;
     }
 }
+
+//Copyright section
+.footer-copyright{
+    color: white;
+    padding: 1rem;
+    display: grid;
+    gap: $spacer-2;
+    @media (min-width:$sm){
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @media (min-width:$lg){
+        grid-template-columns: repeat(3, 1fr);
+        .footer-creator-brand{
+            place-self: end;
+        }
+    }
+
+    p{
+        margin: 0;
+    }
+
+}
+.footer-copyright-links{
+    display: flex;
+    justify-content:space-around ;
+}
+
+

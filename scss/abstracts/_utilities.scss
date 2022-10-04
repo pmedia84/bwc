@@ -1,16 +1,9 @@
-$spacer-1:0.25rem;
-$spacer-2:0.5rem;
-$spacer-3:1.5rem;
-$spacer-4:2rem;
-$spacer-5:2.5rem;
-$spacer-6:3rem;
-
-
 //spacing utilities
 
 //m = margin
 //p = padding
 //y = top and bottom
+//t = top
 .mb-1{
     margin-bottom: $spacer-1;
 }
@@ -22,8 +15,16 @@ $spacer-6:3rem;
     margin-bottom: 1.5rem;
 }
 
+.mb-4{
+    margin-bottom: $spacer-4;
+}
+
 .my-3{
     margin-block: 1.5rem;
+    
+}
+.my-4{
+    margin-block: $spacer-4;
 }
 ////Padding////
 .py-4{
@@ -32,9 +33,11 @@ $spacer-6:3rem;
 .py-5{
     padding-block: $spacer-5;
 }
-
+.pt-0{
+    padding-top: 0;
+}
 //////
-//color utilities
+//colour utilities
 .bg-primary-col{
     //change bg to primary colour
     background-color: $primary;
@@ -44,7 +47,13 @@ $spacer-6:3rem;
     //change bg to secondary col
     background-color: $secondary;
 }
+.bg-tertiary-col{
+    background-color: $tertiary-col;
+}
 
+.bg-tertiary-col-v2{//uses tertiary color for bg but makes it opacity lower
+    background-color: rgba($tertiary-col, 0.25);
+}
 //Text Alignments
 
 .text-center{
@@ -76,8 +85,22 @@ $spacer-6:3rem;
     color: #fff;
 }
 
-//Flex utilities
-
-.flex-reverse-md{
-    flex-direction: row-reverse; // reverse flex direction only on larger screen sizes
+//Font color muted. Slightly grey color
+.text-color-muted{
+    color: $gray-600;
 }
+//use secondary font
+.font-secondary{
+    font-family: $font-family-handwriting;
+}
+
+//flex utility classes
+.flex-column{//makes a flex column
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-space-between{
+    justify-content: space-around;
+}
+

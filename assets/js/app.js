@@ -3,6 +3,7 @@ $('#nav-btn').on("click",function(){
     $('#nav-btn').toggleClass("btn-active");
     //$('#nav-links').toggleClass('nav-links-active');
     $('#nav-links').slideToggle(400 );
+    $('.nav-menu').toggleClass("nav-links-active");
    
 });
 ////////////////////////////////

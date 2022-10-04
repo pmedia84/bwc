@@ -1,4 +1,53 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
 img{
     max-width: 100%;
     vertical-align: middle;
+}
+html{
+    scroll-padding-top: 150px;
+    overflow: fixed;
+}
+
+//Scrollbar Settings
+*{
+    ::-webkit-scrollbar{ //defines scrollbar width
+        width: 15px;
+        
+    }
+    ::-webkit-scrollbar-thumb{ //Actual scroll block
+        background: $primary;
+        border-radius: $border-radius;
+        &:hover{
+            background: rgba($primary, 0.5);
+        }
+    }
+    ::-webkit-scrollbar-track{ // Track in which the scroll bar follows
+        background: black;
+        border: 0.5px solid #82aab3;
+        border-radius: $border-radius; //Makes the scroll bar a pill shape and pushes it down
+        margin-block: 0.25rem;
+    }
+}
+
+
+//Add this for firefox compatibility. Only supports two colours
+
+
+@supports (scrollbar-color: $primary black){
+    *{
+        scrollbar-color: $primary Black ;
+        scrollbar-width: 1rem;
+    }
+}
+///
+///Hide recaptcha logo
+.grecaptcha-badge{
+    visibility: hidden;
 }

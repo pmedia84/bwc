@@ -1,90 +1,128 @@
 //Full width card that on full screens
 
-.card-fw,.card-horizontal-outer{
+.card-fw,
+.card-horizontal-outer {
     border-radius: $border-radius;
     border: 1px solid $tertiary-col;
-    
+
 }
 
-.card-body{
+//standard card with margin and padding.
+//Requires, .card-outer and .card-body
+.card-outer {
+    border-radius: $border-radius;
+    border: 1px solid $tertiary-col;
+}
+
+.card-body {
     padding: $padding-1;
 }
-.card-horizontal-body{
+
+// .card-imgcap{
+//     height: 50%;
+// }
+.card-imgcap img {
+    //img = for cards that have an image cap header.  image cap as an icon
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+}
+
+.card-imgcap-icon {
+    display: grid; //places icon in the center of the cap
+    place-items: center;
+    padding: $spacer-3 $spacer-1 $spacer-3 $spacer-1;
+}
+
+//Utility classes for cards
+.border-0 {
+    border: none; //Turns off border on cards
+}
+
+///////////////
+
+.card-horizontal-body {
     padding: $padding-1;
     background-color: rgba($secondary, 0.75);
-   
+
 }
-.card-horizontal-imgcap img{
+
+.card-horizontal-imgcap img,
+.card-outer img {
     height: 100%;
     object-fit: cover;
     width: 100%;
 }
 
 
-.card-horizontal-outer div:first-of-type img{
+//special settings for a group of horizontal cards
+.card-horizontal-outer div:first-of-type img {
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
 }
 
-.card-horizontal-outer div:first-of-type{
+.card-horizontal-outer div:first-of-type {
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
 }
 
-.card-horizontal-outer div:last-of-type img{
+.card-horizontal-outer div:last-of-type img {
     border-bottom-left-radius: $border-radius;
     border-bottom-right-radius: $border-radius;
 }
 
-.card-horizontal-outer div:last-of-type{
+.card-horizontal-outer div:last-of-type {
     border-bottom-left-radius: $border-radius;
     border-bottom-right-radius: $border-radius;
 }
 
 
-@media (min-width:$md){
-    .card-horizontal-outer{
+@media (min-width:$md) {
+    .card-horizontal-outer {
         display: flex;
     }
 
 
-    .card-horizontal-imgcap, .card-horizontal-body{
+    .card-horizontal-imgcap,
+    .card-horizontal-body {
         width: 50%;
     }
-    .card-horizontal-outer div:first-of-type img{
+
+    .card-horizontal-outer div:first-of-type img {
         border-top-left-radius: $border-radius;
         border-top-right-radius: 0;
         border-bottom-left-radius: $border-radius;
     }
-    
-    .card-horizontal-outer div:first-of-type{
+
+    .card-horizontal-outer div:first-of-type {
         border-top-left-radius: $border-radius;
         border-top-right-radius: 0;
         border-bottom-left-radius: $border-radius;
     }
-    
-    .card-horizontal-outer div:last-of-type img{
+
+    .card-horizontal-outer div:last-of-type img {
         border-bottom-left-radius: 0;
         border-bottom-right-radius: $border-radius;
         border-top-right-radius: $border-radius;
     }
-    
-    .card-horizontal-outer div:last-of-type{
+
+    .card-horizontal-outer div:last-of-type {
         border-bottom-left-radius: 0;
         border-bottom-right-radius: $border-radius;
         border-top-right-radius: $border-radius;
     }
-    .card-container .card-horizontal-outer:nth-of-type(even){
-           //outer card container to switch even items and change styling as needed
+
+    .card-container .card-horizontal-outer:nth-of-type(even) {
+        //outer card container to switch even items and change styling as needed
         flex-direction: row-reverse;
 
-        .card-horizontal-body{
+        .card-horizontal-body {
             border-top-left-radius: $border-radius;
             border-bottom-left-radius: $border-radius;
             border-bottom-right-radius: 0;
             border-top-right-radius: 0;
         }
-        .card-horizontal-imgcap img{
+
+        .card-horizontal-imgcap img {
             border-top-left-radius: 0;
             border-top-right-radius: $border-radius;
             border-bottom-left-radius: 0;
@@ -93,4 +131,30 @@
 
     }
 
+}
+
+//Button settings for cards
+.card-btn-section{//fixes the height of button container to stop layout jumps
+    height: 38px;
+}
+.card-cta-btn {//call to action button. sets the button full width of card
+    width: 100%;
+    margin: 0 auto;
+}
+
+////////
+
+//Services image grid, displays 3 images below the service
+
+.services-img-grid{
+    display: grid;
+    gap: $spacer-3;
+    padding: $spacer-5;
+    img{
+        height: 100%;
+        object-fit:cover ;
+    }
+    @media(min-width:$md){
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }

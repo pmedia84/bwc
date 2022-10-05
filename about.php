@@ -38,7 +38,7 @@
         <div class="container-fw bg-tertiary-col">
             <div class="row flex-reverse-md">
             <div class="col-50">
-                    <img src="./assets/img/gallery/before-after-gutters.jpeg" alt="Gutter Cleaning before and after by Bolton's Window Cleaning">
+                    <img src="./assets/img/gallery/before-after-gutters.webp" alt="Gutter Cleaning before and after by Bolton's Window Cleaning">
                 </div>
             <div class="col-50">
                     <div class="card-outer border-0">

@@ -6,9 +6,9 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-require $_SERVER['DOCUMENT_ROOT'] . '/bwc/mailer/PHPMailer.php';
-require $_SERVER['DOCUMENT_ROOT'] . '/bwc/mailer/SMTP.php';
-require $_SERVER['DOCUMENT_ROOT'] . '/bwc/mailer/Exception.php';
+require $_SERVER['DOCUMENT_ROOT'] . '/mailer/PHPMailer.php';
+require $_SERVER['DOCUMENT_ROOT'] . '/mailer/SMTP.php';
+require $_SERVER['DOCUMENT_ROOT'] . '/mailer/Exception.php';
 
 if (isset($_POST['token'])) {
     //Recaptcha security test

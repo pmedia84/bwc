@@ -151,7 +151,7 @@
                 <a class="btn btn-primary btn-cta" href="#quote-request">Request A Quote Now</a>
             </div>
         </div>
-        <section id="lodge-cleaning">
+        <section id="park-home-cleaning">
             <div class="container my-4">
                 <div class="grid-row-2col">
                     <div>

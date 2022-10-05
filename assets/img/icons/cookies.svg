@@ -1,43 +1,4 @@
-<footer class="">
-    <div class="footer-container">
-        <div class="footer-brand">
-            <img class="logo" src="./assets/img/logo/logo-primary-col.svg" alt="">
-            <p class="font-secondary">Reliable, Efficient and Professional</p>
-        </div>
-        <div class="footer-cta">
-            <p>Get in touch with us!</p>
-            <a class="btn btn-primary btn-lg" type="button" href="contact">Contact Us</a>
-        </div>
-        <div class="footer-contact">
-            <div class="footer-contact-follow">
-                <p>Follow Us:</p>
-                <a href="#"><img src="./assets/img/icons/fb-icon.svg" alt=""></a>
-            </div>
-            <div class="footer-contact-details">
-                <p>Call or Email</p>
-                <span class="footer-contact-details-item"><img src="./assets/img/icons/phone.svg" alt=""><a href="tel:<?= $contactnum; ?>"><?= $contactnum; ?></a></span>
-                <span class="footer-contact-details-item"><img src="./assets/img/icons/email.svg" alt=""><a href="mailto:<?= $emailaddress; ?>"><?= $emailaddress; ?></a></span>
-
-            </div>
-        </div>
-
-
-    </div>
-
-    <div class="footer-copyright">
-        <p>&copy; Bolton's Window Cleaning <?php echo date("Y"); ?></p>
-        <div class="footer-copyright-links">
-            <a href="terms">Terms and Conditions</a>
-            <a href="privacy">Privacy Policy</a>
-        </div>
-        <div class="footer-creator-brand">
-            <p>Website lovingly created by <a href="http://www.parrotmedia.co.uk" target="blank">Parrot Media</a></p>
-        </div>
-    </div>
-</footer>
-<div class="cookie-overlay d-none">
-<div class="cookie-overlay-icon">
-<svg width="125" height="125" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_109_28)">
 <mask id="path-1-inside-1_109_28" fill="white">
 <path d="M47.3008 23.9902C40.8917 23.9101 35.7188 18.7031 35.7188 12.2812C29.2989 12.2812 24.0879 7.10835 24.0196 0.699175C21.5137 0.321539 18.961 0.722085 16.7178 1.87789L10.3965 5.09468C8.11626 6.26168 6.26177 8.11617 5.09478 10.3964L1.89068 16.6953C0.723683 18.9843 0.311574 21.5703 0.711965 24.1113L1.82232 31.0918C2.2229 33.621 3.41314 35.955 5.22173 37.7636L10.2374 42.7822C12.0469 44.5957 14.3614 45.7773 16.8907 46.1777L23.9063 47.288C26.4356 47.6885 29.0108 47.2766 31.2881 46.121L37.6172 42.8935C39.8946 41.7373 41.7491 39.8837 42.9043 37.6064L46.1202 31.3007C47.2715 29.0488 47.6817 26.4804 47.3008 23.9902ZM16.1875 34.8496C14.4668 34.8496 13.0626 33.4462 13.0626 31.8125C13.0626 30.1787 14.4668 28.7753 16.1875 28.7753C17.9083 28.7753 19.3125 30.1787 19.3125 31.8125C19.3125 33.4462 17.9063 34.8496 16.1875 34.8496ZM19.3125 19.3125C17.5918 19.3125 16.1875 17.9091 16.1875 16.2753C16.1875 14.6416 17.5918 13.2382 19.3125 13.2382C21.0333 13.2382 22.4375 14.6416 22.4375 16.2753C22.4375 17.9091 21.0313 19.3125 19.3125 19.3125ZM34.9375 31.7246C33.2168 31.7246 31.8125 30.3212 31.8125 28.6875C31.8125 27.0537 33.2168 25.6503 34.9375 25.6503C36.6583 25.6503 38.0625 27.0537 38.0625 28.6875C38.0625 30.3212 36.6563 31.7246 34.9375 31.7246Z"/>
@@ -57,15 +18,3 @@
 </clipPath>
 </defs>
 </svg>
-</div>
-    <div class="cookie-text">
-        <h2 class="cookie-text-title">Our Cookie Policy</h2>
-        <p class="mb-1">Our websites uses cookies to ensure that we give you the best experience while visiting us. </p>
-        <p class="mb-1">By accepting this message you are agreeing to our cookie policy.You can find out more in our <a href="cookie-policy">Cookie Policy</a></p><br>
-
-    </div>
-    <button type="button" class="btn-close close-cookies" aria-label="Close"></button>
-    <button class="btn btn-primary accept-cookies">Accept</button>
-</div>
-
-<script src="./assets/js/app.js"></script>

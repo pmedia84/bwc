@@ -1,6 +1,8 @@
 footer{//footer outer container
     background-color: $secondary;
     border-top: 3px solid $primary;
+    position: sticky;
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom));
     h2{
         color: white;
     }

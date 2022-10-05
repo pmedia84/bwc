@@ -59,7 +59,7 @@ nav {
     top: $nav-height;
     left: 0;
     width: 100%;
-    height: calc(100vh - 125px); //full height of screen minus the nav bar height
+    height: calc(100vh - 125px - env(safe-area-inset-bottom)); //full height of screen minus the nav bar height
 
     ul {
         list-style: none;

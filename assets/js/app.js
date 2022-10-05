@@ -45,6 +45,10 @@ $(window).on('load', function() {
     $('.close-cookies').on('click', function() {
       $('.cookie-overlay').fadeOut(400);
     })
-  })
+})
+  
+$(window).on("resize", function () {
+  $('#nav-links').removeAttr("style");
+})
 
 

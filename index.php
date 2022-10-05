@@ -12,7 +12,7 @@
 <meta name="theme-color" content="red" />
 <!-- / -->
 <!-- Page Title -->
-<title>Bolton's Window Cleaning</title>
+<title>Window Cleaning in Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
 <!-- /Page Title -->
 </head>
 <body>

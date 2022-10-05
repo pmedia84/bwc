@@ -3,7 +3,8 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+    position: sticky;
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom));
 }
 
 img{

@@ -152,7 +152,7 @@
             <h2 class="text-center my-3">What We Do Best!</h2>
             <div class="gallery my-3">
                 <?php
-                $files = glob('./assets/img/gallery/*.{jpeg,gif,png}', GLOB_BRACE);
+                $files = glob('./assets/img/gallery/*.{jpeg,gif,png,webp}', GLOB_BRACE);
                 if ($files !== false) {
                     foreach ($files as $img) :
                         if ($img == '..' || $img == '.')

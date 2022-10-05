@@ -8,8 +8,6 @@
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
 <meta property="og:image" content="your_image_url">
 <!-- /OG Meta Tags -->
-<!-- Theme Color for safari and mobile browsers -->
-<meta name="theme-color" content="red" />
 <!-- / -->
 <!-- Page Title -->
 <title>Window Cleaning in Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>

@@ -24,9 +24,8 @@
                 <div class="hero-text">
                     <h1 class="hero-title display-2">Window Cleaning Services</h1>
                     <p class="hero-subtitle">Providing window and gutter cleaning services to Cambridgeshire and Norfolk. </p>
-                    <p>No job big or small, we handle it all. Not only do we provide window cleaning services, we also carry out conservatory roof cleaning, domestic roof cleaning and Park Homes. We also provide services to the public sector that include school window cleaning and medical centre window cleaning.</p>
+                    <p>There is no job too big or small. Not only do we provide window cleaning services, we also carry out conservatory roof cleaning, domestic roof cleaning and Park Homes. In addition to this we provide services to the public sector that include school and medical centre window cleaning.</p>
                 </div>
-
             </div>
         </div>
         <!-- /Hero Section -->
@@ -36,7 +35,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Window Cleaning</h2>
-                        <p class="text-color-muted">Our window cleaning service for Cambridgeshire and Norfolk. This is our primary service and is where we started our business in 2015! We pride ourselves in this service and we pay attention to every detail. From the traditional methods we use such as ladders, poles and squeegees to the way we also clean your window frames and not just the glass. Giving you a streak free finish for your windows and doors at home. </p>
+                        <p class="text-color-muted">Our window cleaning service is available in Cambridgeshire and Norfolk. This is our primary service, and it is where we began in 2015! We take pride in this service and pay close attention to every detail. We clean your window frames as well as the glass panes, using traditional methods such as ladders, poles, and squeegees. Providing you a streak-free finish on your home's windows and doors.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/window-cleaning.jpg" alt="">
                 </div>
@@ -60,7 +59,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Gutter Cleaning</h2>
-                        <p class="text-color-muted">Our gutter cleaning service will leave not only your gutters looking as good as the day they were installed, our gutter cleaning service will also leave your fascia's and soffits looking spotless too. We also use a gutter vac to remove all the debris that has built up such as leaves and moss from your roof, and then we will clean with poles and brushes leaving an amazing finish. </p>
+                        <p class="text-color-muted">Our gutter cleaning service will not only leave your gutters looking as good as the day they were installed, but it will also leave your fascias and soffits looking pristine. We also utilise a gutter vac to remove all of the debris that has accumulated on your roof, such as leaves and moss and then clean using poles and brushes to leave an excellent finish. </p>
                     </div>
                     <img class="border-std" src="./assets/img/services/gutter-cleaning.jpg" alt="">
                 </div>

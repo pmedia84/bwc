@@ -110,7 +110,7 @@ if($score >=0.7){//if the score is above 0.7 then proceed with the form submissi
         <h1 style="text-align:center;">Thank you '.$fname . '  for requesting a quotation from us!</h1>
         <div style="padding:16px; border: 10px solid #03b0fa; border-radius: 10px;">
 
-            <h2>Here is a confirmation of what you have for:</h2>
+            <h2>Here is a confirmation of what you have asked for:</h2>
             <p style="border-bottom:1px solid;"><strong>Name</strong>: ' . $fname . ' ' . $lname . ' </p>
             <p style="border-bottom:1px solid;"><strong>Email</strong>: ' . $email . ' </p>
             <p style="border-bottom:1px solid;"><strong>Phone No</strong>.: ' . $phone . ' </p>

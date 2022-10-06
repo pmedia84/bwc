@@ -2,7 +2,7 @@
 //email settings for contact forms
 //Settings for all form scripts
 /// Define who the emails get sent to from forms filled out
-$email_to = "besleykarl@gmail.com";
+$email_to = "karl@parrotmedia.co.uk";
 
 $host = "mail.parrotmedia.co.uk"; /// Hostname
 $username = "admin@parrotmedia.co.uk"; ///Username

@@ -18,37 +18,7 @@ nav {
 
 }
 
-// Change to scrolled styles when user scrolls down the screen
-.nav-scrolled {
-    background-color: $secondary;
-     .line1, .line2,.line3 {
-        background-color: $primary;
-        transition: transform 300ms ease-out, background-color 400ms ease-out, opacity 200ms ease-out;
-    }
 
-    .contact-number, .nav-links a {
-        color: $primary;
-        transition: all 400ms ease-in-out;
-        &:hover{
-            color: var(--bs-link-hover-color)
-        }
-    }
-
-
-
-    .logo-text {
-        fill: $primary;
-        transition: fill 400ms ease-in-out;
-    }
-
-    .logo-swipe {
-        stroke: $primary;
-        fill: none;
-        transition: fill 400ms ease-in-out, stroke 400ms ease-in-out;
-    }
-
-    
-}
 
 /////////Nav menu links
 .nav-links {
@@ -158,16 +128,16 @@ $line-width: 50px;
 }
 .line1{
     transform: rotate(0deg) translateY(0);
-    transition: transform 300ms ease-out;
+    transition: transform 300ms ease-out, background-color 400ms ease-in-out;
 }
 
 .line2{
     opacity: 1;
-    transition: opacity 300ms ease-out;
+    transition: opacity 300ms ease-out, background-color 400ms ease-in-out;
   }
   .line3{
     transform: rotate(-0) translateX(0);
-    transition: transform 300ms ease-out;
+    transition: transform 300ms ease-out, background-color 400ms ease-in-out;
   }
 //settings once clicked
 .btn-active {
@@ -195,13 +165,63 @@ $line-width: 50px;
 ////////////////////
 //Contact number in nav bar
 .contact-header {
-    color: $white;
     position: absolute;
     bottom: 0;
     font-size: 1.25rem;
     transition: color 400ms ease-in-out;
+
+    a, span{
+        color: white;
+        transition: color 400ms ease-in-out;
+    }
     @media (min-width:$lg) {
         position: relative;
     }
 }
 
+// Change to scrolled styles when user scrolls down the screen
+.logo-text {//settings when not scrolled
+    fill: white;
+    transition: fill 400ms ease-in-out;
+}
+
+.logo-swipe {
+    stroke: white;
+    fill: none;
+    transition: fill 400ms ease-in-out, stroke 400ms ease-in-out;
+}
+//settings when scrolled
+.nav-scrolled {
+    background-color: $secondary;
+     .line1, .line2,.line3 {
+        background-color: $primary;
+        transition: transform 300ms ease-out, background-color 400ms ease-out, opacity 200ms ease-out;
+    }
+
+    .nav-links a {
+        color: $primary;
+        transition: color 400ms ease-in-out;
+        &:hover{
+            color: var(--bs-link-hover-color)
+        }
+
+    }
+
+    .contact-header a, span{
+        color: $primary;
+    transition: color 400ms ease-in-out;
+    }
+
+    .logo-text {
+        fill: $primary;
+        transition: fill 400ms ease-in-out;
+    }
+
+    .logo-swipe {
+        stroke: $primary;
+        fill: none;
+        transition: fill 400ms ease-in-out, stroke 400ms ease-in-out;
+    }
+
+    
+}

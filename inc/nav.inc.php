@@ -23,7 +23,7 @@
             </ul>
         </div>
         <div class="contact-header">
-            <span class="contact-number">Call: <?=$contactnum;?></span>
+            <span class="contact-number">Call: <a href="tel:<?=$contactnum;?>"><?=$contactnum;?></a></span>
         </div>
         <div class="nav-btn" id="nav-btn">
             <span class="line1"></span>

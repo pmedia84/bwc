@@ -4,8 +4,8 @@
 /// Define who the emails get sent to from forms filled out
 $email_to = "karl@parrotmedia.co.uk";
 
-$host = "mail.parrotmedia.co.uk"; /// Hostname
-$username = "admin@parrotmedia.co.uk"; ///Username
+$host = "dev.parrotmedia.co.uk"; /// Hostname
+$username = "admin@dev.parrotmedia.co.uk"; ///Username
 $pass = "Krb833908!"; /// Password
 $from = $username; ///Email
 

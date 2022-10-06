@@ -53,13 +53,15 @@ nav {
 /////////Nav menu links
 .nav-links {
     display: none;
-    padding: 0 1rem 0 1rem;
-    background-color: rgba($secondary, 0.8);
+    padding: 1rem;
+    background-color: $secondary;
     position: absolute;
     top: $nav-height;
     left: 0;
     width: 100%;
     height: max-content; //full height of screen minus the nav bar height
+    border-top: 2px solid $primary;
+    border-bottom: 2px solid $primary;
 
     ul {
         list-style: none;
@@ -100,6 +102,7 @@ nav {
         background-color: inherit;
         margin: 0 auto;
         text-align: center;
+        border: none;
         a {
             color: $white;
         }

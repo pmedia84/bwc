@@ -59,7 +59,7 @@ nav {
     top: $nav-height;
     left: 0;
     width: 100%;
-    height: calc(100vh - 125px - env(safe-area-inset-bottom)); //full height of screen minus the nav bar height
+    height: max-content; //full height of screen minus the nav bar height
 
     ul {
         list-style: none;
@@ -67,6 +67,7 @@ nav {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
+        margin-bottom: 0;
     }
 
     li {
@@ -74,6 +75,7 @@ nav {
         margin-bottom: 0.5rem;
         width: 100%;
         opacity: 0;
+        will-change: opacity;
         transition: opacity 700ms ease-out;
 
     }
@@ -128,7 +130,9 @@ nav {
     display:flex;
     flex-direction: column;
     gap: $spacer-2;
+    will-change: transform;
     transform: rotate(0deg);
+    transition: transform 300ms ease-out;
     @media (min-width:$lg) {
         display: none;
     }
@@ -148,18 +152,32 @@ $line-width: 50px;
     background-color: $white;
     border-radius: $border-radius;
     margin-block: 0;
-    transition: all 400ms ease-out;
 }
+.line1{
+    transform: rotate(0deg) translateY(0);
+    transition: transform 300ms ease-out;
+}
+
+.line2{
+    opacity: 1;
+    transition: opacity 300ms ease-out;
+  }
+  .line3{
+    transform: rotate(-0) translateX(0);
+    transition: transform 300ms ease-out;
+  }
 //settings once clicked
 .btn-active {
-   
+        will-change: transform;
         transform: rotate(-45deg);
         transition: transform 400ms ease-out;
         .line1{
             transform: rotate(0deg) translateY(12px);
+            transition: transform 400ms ease-out;
         }
       .line2{
         opacity: 0;
+        transition: opacity 300ms ease-out;
       }
       .line3{
         transform: rotate(-90deg) translateX(10px);

@@ -24,7 +24,7 @@
                 <div class="hero-text">
                     <h1 class="hero-title display-2">Window Cleaning Services</h1>
                     <p class="hero-subtitle">Providing window and gutter cleaning services to Cambridgeshire and Norfolk. </p>
-                    <p>There is no job too big or small. Not only do we provide window cleaning services, we also carry out conservatory roof cleaning, domestic roof cleaning and Park Homes. In addition to this we provide services to the public sector that include school and medical centre window cleaning.</p>
+                    <p>We undertake all jobs, big or small. We not only offer window cleaning but also conservatory roof cleaning, home roof cleaning, and Park Homes. In addition, we offer public sector services such as school window cleaning and medical centre window cleaning.</p>
                 </div>
             </div>
         </div>
@@ -82,7 +82,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Public Sector Window Cleaning</h2>
-                        <p class="text-color-muted">We are proud to work with a growing number of schools and providing them with our window cleaning services, we also have a growing number of medical centres such as Doctor's surgeries and Dentist surgeries. We can also provide work on monthly rotations or annual rotations.</p>
+                        <p class="text-color-muted">We are delighted to work with a growing number of schools, providing them with window cleaning services. We also have a growing number of medical centres, such as doctor's and dentist's surgeries. We can provide flexibility and work on monthly or annual rotations.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/public-sector-cleaning.jpg" alt="">
                 </div>
@@ -105,7 +105,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Conservatory Roof Cleaning</h2>
-                        <p class="text-color-muted">Our conservatory roof cleaning service will leave your conservatory roof looking as good as new! We start off by removing all the moss and loose dirt that has built up, we then use our poles and brushes to fully clean your conservatory roof. Once we have done this we then apply an anti mould spray that leaves your conservatory roof cleaner for longer.</p>
+                        <p class="text-color-muted">Our conservatory roof cleaning service will restore your conservatory roof to its original condition! We begin by removing all moss and loose debris that has accumulated before using poles and brushes to thoroughly clean your conservatory roof. Afterwards, we use an anti-mould spray to keep your conservatory roof clean for even longer.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/conservatory-cleaning.jpg" alt="">
                 </div>
@@ -128,7 +128,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Roof Cleaning</h2>
-                        <p class="text-color-muted">Our roof cleaning service will transform your roof! We first remove all the moss from your roof tiles, we then use our poles and brushes to fully clean your roof using traditional methods.</p>
+                        <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by removing all moss from your roof tiles, then utilise poles and brushes to thoroughly clean your roof using conventional methods.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/roof-cleaning.jpg" alt="">
                 </div>
@@ -152,7 +152,7 @@
                 <div class="grid-row-2col">
                     <div>
                         <h2 class="display-3">Park Home Cleaning</h2>
-                        <p class="text-color-muted">Our Park Home cleaning service is a full service and not only is about cleaning your windows, but also we will clean your outside decking areas and spindles. This is all carried out by hand and ensures the lodge cleaning is carried out to the highest of standards that we have become proud of.</p>
+                        <p class="text-color-muted">Our Park Home cleaning service is comprehensive, therefore, we will not only clean your windows but also your exterior decking areas and spindles. This is all done by hand and guarantees that your park home cleaning is completed to the highest standards, something we are very proud of.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/lodge-cleaning.jpg" alt="">
                 </div>
@@ -176,7 +176,7 @@
                 <div class="grid-row-2col">
                     <div class="place-grid-start">
                         <h2 class="display-3">Request A Quote</h2>
-                        <p class="text-color-muted">Here you can request a quote for our window cleaning services as well as all other services we provide. We always aim to provide a prompt response to your request and will aim to respond with 24 to 48 hours.</p>
+                        <p class="text-color-muted">You can receive a free quote for our window cleaning services, as well as all of the other services we offer, right here. We constantly strive to answer to your requests as soon as possible, usually within 24 to 48 hours.</p>
                     </div>
                     <div class="quote-request">
                         <h3>Request A Quote</h3>

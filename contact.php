@@ -51,7 +51,7 @@
                             <p class="card-text text-color-muted">The <strong>quickest</strong> way to contact us is via our secure messaging service on this page. These messages are delivered direct to our email box and avoid any spam filters.</p>
                             <div class="card-btn-section"><button class="btn btn-primary card-cta-btn" id="msg-btn">Message Us Now</button></div>
                             <div class="contact-form my-3">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                            <button type="button" class="btn-close close" aria-label="Close"></button>
                                 <form action="" autocomplete="on" id="contact-form">
                                     <div class="form-row">
                                         <div class="">
@@ -93,7 +93,7 @@
                                     </div>
                                     <input class="recaptcha-token" name="token" id="token"></input>
                                     <div class="button-section">
-                                        <button type="submit" class="btn btn-primary">Submit Request</button>
+                                        <button type="submit" class="btn btn-primary accept">Submit Request</button>
                                     </div>
                                     <div class="google-policy">
                                         <p>Our website is protected by reCAPTCHA and the Google</p>
@@ -124,13 +124,16 @@
                         </div>
                         <div class="card-body pt-0">
                             <h2 class="card-title text-center">Contact Us</h2>
-                            <p class="card-text text-color-muted">We are always available on the phone, or you can text us on these details. If we don't answer the first time, don't be alarmed, we might be cleaning other customers windows. We will get back to you as soon as possible. You can also use the email address below, or you can use the form on this page which will send us a secure email. </p>
+                            <p class="card-text text-color-muted">We are available on the phone number below, or you can email us. Alternatively, you can use the message us now button.</p>
                             <div class="contact-details">
                                 <div class="contact-details-item">
                                     <span><i class="fa-solid fa-phone"></i></span><span><a href="<?= $contactnum; ?>"><?= $contactnum; ?></a></span>
                                 </div>
                                 <div class="contact-details-item">
                                     <span><i class="fa-solid fa-at"></i></span><span><a href="mailto:<?= $emailaddress; ?>"><?= $emailaddress; ?></a></span>
+                                </div>
+                                <div class="contact-details-item">
+                                    <span><i class="fa-brands fa-facebook"></i></span><span><a href="<?= $facebookurl; ?>" target="_blank">Facebook</a></span>
                                 </div>
                             </div>
 

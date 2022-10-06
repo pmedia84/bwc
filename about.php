@@ -41,7 +41,7 @@
                     <div class="card-outer border-0">
                         <div class="card-body">
                             <h2 class="card-title text-color-white">What We Do</h2>
-                            <p class="card-text text-color-white">Bolton's Window Cleaning offer a friendly and reliable service to your home or business since 2015. We are a small business offering a great personal service to you.</p>
+                            <p class="card-text text-color-white">Since 2015, Bolton's Window Cleaning has provided a friendly and dependable service to your home or business. We are a small firm that provides you with excellent personal service.</p>
                             <a href="contact">Contact US</a>
                         </div>
                     </div>

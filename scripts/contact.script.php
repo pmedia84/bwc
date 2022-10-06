@@ -70,7 +70,7 @@ if (isset($_POST['token'])) {
         //body of email for website admins
         $body = '
     <div style="background-color:#3b4142; padding:16px;font-family:sans-serif;">
-        <h1 style="text-align:center; color:white;">' . $fname . ' ' . $lname . ' has requested a free quotation from your services page!</h1>
+        <h1 style="text-align:center; color:white;">' . $fname . ' ' . $lname . ' has sent you a message from your contact page</h1>
         <div style="background-color: white; padding:16px; border: 10px solid #335a61; border-radius: 10px;">
             <h2>Quotation Details:</h2>
             <p style="border-bottom:1px solid;"><strong>Subject</strong>: ' . $msgtype . ' </p>
@@ -106,12 +106,12 @@ if (isset($_POST['token'])) {
 
             /////////////////////Client auto reply/////////////////////////
             //email subject
-            $clientsubject = 'Thank you ' . $fname . ' contacting Bolton\'s Window Cleaning';
+            $clientsubject = 'Thank you ' . $fname . ' for contacting Bolton\'s Window Cleaning';
             //body of email to send to client as an auto reply
             $clientbody = '
         <img src="' . $emailheaderlogo . '">
         <div style="padding:16px;font-family:sans-serif;">
-            <h1 style="text-align:center;">Thank you ' . $fname . '  for requesting a quotation from us!</h1>
+            <h1 style="text-align:center;">Thank you ' . $fname . '  for contacting us!</h1>
             <div style="padding:16px; border: 10px solid #03b0fa; border-radius: 10px;">
                 <h2>Here is a confirmation of what you have asked for:</h2>
                 <p style="border-bottom:1px solid;"><strong>Subject</strong>: ' . $msgtype . ' </p>

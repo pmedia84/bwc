@@ -1,3 +1,6 @@
+:root{
+    scroll-behavior: auto;
+}
 body{
     height: 100vh;
     display: flex;
@@ -14,6 +17,7 @@ img{
 html{
     scroll-padding-top: 150px;
     overflow: fixed;
+    
 }
 
 //Scrollbar Settings

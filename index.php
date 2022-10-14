@@ -1,6 +1,6 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
-<meta name="description" content="Window and gutter cleaning services from your friendly and reliable company - Bolton's Window Cleaning">
+<meta name="description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <meta name="title" content="Window and Gutter Cleaning for Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <!-- /Meta Tags -->
 <!-- OG Meta Tags -->
@@ -10,9 +10,10 @@
 <!-- /OG Meta Tags -->
 <!-- / -->
 <!-- Page Title -->
-<title>Window Cleaning in Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
+<title>Window Cleaning Services for Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
 <!-- /Page Title -->
 </head>
+
 <body>
     <!-- Nav Bar -->
     <?php include("./inc/nav.inc.php"); ?>
@@ -22,9 +23,26 @@
         <div class="hero index-hero">
             <div class="hero-container">
                 <div class="hero-text">
-                    <h1 class="hero-title display-2">Window Cleaning Services</h1>
+                    <h1 class="hero-title display-2">Window and Gutter Cleaning Services</h1>
                     <p class="hero-subtitle">Reliable, Efficient and Professional </p>
-                    <p>Providing window and gutter cleaning services to domestic and commercial properties in and around Cambridgeshire and Norfolk.</p>
+                    <div itemscope itemtype="https://schema.org/Service">
+                        <meta itemprop="serviceType" content="Home cleaning" />
+
+                        <p>
+                            <span itemprop="provider" itemscope itemtype="https://schema.org/LocalBusiness">
+                                <span itemprop="name">Bolton's Window Cleaning</span>
+                            </span>
+                            provide window and gutter cleaning services to domestic and commercial properties in and around
+                            <span itemprop="areaServed" itemscope itemtype="https://schema.org/State">
+                                <span itemprop="name">Cambridgeshire</span> and
+                            </span>
+                            <span itemprop="areaServed" itemscope itemtype="https://schema.org/State">
+                                <span itemprop="name">Norfolk.</span>
+                            </span>
+                             We are a small business focussed on providing a first class service to domestic, commercial and public sector clients.
+                        </p>
+                    </div>
+
                 </div>
                 <div class="quote-request">
                     <h2>Request A Quote</h2>
@@ -87,7 +105,7 @@
             <h2 class="text-center my-3 display-3">Our Services</h2>
             <div class="card-horizontal-outer my-3 ">
                 <div class="card-horizontal-imgcap">
-                    <img src="./assets/img/services/window-cleaning.jpg" alt="Bolton's Window Cleaning">
+                    <img src="./assets/img/services/window-cleaning.jpg" alt="Window Cleaning Services">
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Window Cleaning</h3>
@@ -97,7 +115,7 @@
             </div>
             <div class="card-horizontal-outer mb-3">
                 <div class="card-horizontal-imgcap">
-                    <img src="./assets/img/services/gutter-cleaning.jpg" alt="Bolton's Window Cleaning">
+                    <img src="./assets/img/services/gutter-cleaning.jpg" alt="Gutter Cleaning Services">
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Gutter Cleaning</h3>
@@ -107,7 +125,7 @@
             </div>
             <div class="card-horizontal-outer my-3">
                 <div class="card-horizontal-imgcap">
-                    <img src="./assets/img/services/roof-cleaning.jpg" alt="Bolton's Window Cleaning">
+                    <img src="./assets/img/services/roof-cleaning.jpg" alt="Roof Cleaning Services">
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Roof Cleaning</h3>
@@ -117,7 +135,7 @@
             </div>
             <div class="card-horizontal-outer my-3">
                 <div class="card-horizontal-imgcap">
-                    <img src="./assets/img/services/conservatory-cleaning.jpg" alt="Bolton's Window Cleaning">
+                    <img src="./assets/img/services/conservatory-cleaning.jpg" alt="Conservatory Roof Cleaning">
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Conservatory Roof Cleaning</h3>
@@ -127,7 +145,7 @@
             </div>
             <div class="card-horizontal-outer my-3">
                 <div class="card-horizontal-imgcap">
-                    <img src="./assets/img/services/lodge-cleaning.jpg" alt="Bolton's Window Cleaning">
+                    <img src="./assets/img/services/lodge-cleaning.jpg" alt="Park Home Cleaning">
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Park Home Cleaning</h3>

@@ -1,6 +1,6 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
-<meta name="description" content="Your friendly and reliable window cleaning company">
+<meta name="description" content="Find out a bit more about Bolton's Window Cleaning">
 <meta name="title" content="Bolton's Window Cleaning - About Us">
 <!-- /Meta Tags -->
 <!-- OG Meta Tags -->

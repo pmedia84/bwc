@@ -2,6 +2,9 @@
     .hero-text{
         width: 100%;
     }
+    .hero-container{
+        grid-template-columns: auto;
+    }
 }
 
 #quote-request .quote-request{

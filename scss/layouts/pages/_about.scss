@@ -1,3 +1,6 @@
 .about-hero{
     background-image: url("../../assets/img/hero-img/about-hero.jpg");
+    .hero-container{
+        grid-template-columns: auto;
+    }
 }

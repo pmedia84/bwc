@@ -16,4 +16,9 @@
     <script src="https://www.google.com/recaptcha/api.js?render=6LevFFEiAAAAAPcel_AlRmOSMRgDSXCN5vT0lbmC" async="false"></script>
     <!-- Theme Color for safari and mobile browsers -->
     <meta name="theme-color" content="black" />
+    <!-- OG Meta Tags -->
+    <meta property="og:title" content="Bolton's Window Cleaning">
+    <meta property="og:description" content="Window and gutter cleaning services for Cambridgeshire and Norfolk">
+    <meta property="og:image" content="./assets/img/og-data/og-img.png">
+    <!-- /OG Meta Tags -->
     <!-- Everything above this is for the head element. And is displayed on every web page -->

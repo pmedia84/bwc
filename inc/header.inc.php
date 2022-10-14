@@ -20,5 +20,7 @@
     <meta property="og:title" content="Bolton's Window Cleaning">
     <meta property="og:description" content="Window and gutter cleaning services for Cambridgeshire and Norfolk">
     <meta property="og:image" content="./assets/img/og-data/og-img.png">
+    <meta property="og:url" content="">
+    <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
     <!-- Everything above this is for the head element. And is displayed on every web page -->

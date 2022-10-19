@@ -20,7 +20,7 @@
             <ul>
                 <li><img src="./assets/img/icons/phone.svg" alt=""><a href="tel:+<?=$contactnum;?>"><?=$contactnum;?></a></li>
                 <li><img src="./assets/img/icons/email.svg" alt=""><a href="mailto:<?=$emailaddress;?>"><?=$emailaddress;?></a></li>
-                <li><img src="./assets/img/icons/facebook.svg" alt=""><a href="<?=$facebookurl;?>" target="_blank">Facebook</a></li>
+                <li><img class="fb-logo" src="./assets/img/icons/facebook.svg" alt=""><a href="<?=$facebookurl;?>" target="_blank">Facebook</a></li>
             </ul>
         </div>
 

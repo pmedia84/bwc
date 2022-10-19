@@ -40,7 +40,7 @@
                             <span>Window Cleaning</span>
                             </div>
                         </h2>
-                        <p class="text-color-muted">Our window cleaning service is available in Cambridgeshire and Norfolk. This is our primary service, and it is where we began in 2015! We take pride in this service and pay close attention to every detail. We clean your window frames as well as the glass panes, using traditional methods such as ladders, poles, and squeegees. Providing you a streak-free finish on your home's windows and doors.</p>
+                        <p class="text-color-muted">Our window cleaning service is available in Cambridgeshire and Norfolk. This is our primary service, and it is where we began in 2015! We take pride in this service and pay close attention to every detail. We clean your window frames and sills as well as the glass panes, using traditional methods such as ladders, and squeegees. Providing you a streak-free finish on your home's windows and doors.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/window-cleaning.jpg" alt="">
                 </div>
@@ -64,7 +64,7 @@
                 <div class="grid-row-2col">
                     <div class="place-start">
                         <h2 class="display-3"><meta itemprop="serviceType" content="Gutter cleaning" />Gutter Cleaning</h2>
-                        <p class="text-color-muted">Our gutter cleaning service will not only leave your gutters looking as good as the day they were installed, but it will also leave your fascias and soffits looking pristine. We also utilise a gutter vac to remove all of the debris that has accumulated on your roof, such as leaves and moss and then clean using poles and brushes to leave an excellent finish. </p>
+                        <p class="text-color-muted">Our gutter cleaning service will not only leave your gutters looking as good as the day they were installed, but it will also leave your fascias and soffits looking pristine. We also utilise a gutter vac to remove all of the debris that has accumulated, such as leaves and moss. To finish, we then clean your gutters, fascias and soffits by hand.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/gutter-cleaning.jpg" alt="">
                 </div>
@@ -89,7 +89,7 @@
                     <h2 class="display-3">
                             <div itemscope itemtype="https://schema.org/Service">
                             <meta itemprop="serviceType" content="Window cleaning" />
-                            <span>Public Sector Window Cleaning</span>
+                            <span>Commercial Window Cleaning</span>
                             </div>
                         </h2>
                         <p class="text-color-muted">We are delighted to work with a growing number of schools, providing them with window cleaning services. We also have a growing number of medical centres, such as doctor's and dentist's surgeries. We can provide flexibility and work on monthly or annual rotations.</p>
@@ -104,7 +104,7 @@
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
-                    <h3 class="cta-title">Want to know more about our commercial and public sector work?</h3>
+                    <h3 class="cta-title">Want to know more about our commercial window cleaning?</h3>
                     <p class="cta-text my-3">The quickest and easiest way to find out how we can help your school or medical centre is to fill out a quote request. We will then contact you and give you our absolute best price.</p>
                     <a class="btn btn-primary btn-cta" href="#quote-request">Request A Quote Now</a>
                 </div>
@@ -114,14 +114,13 @@
             <div class="container my-4">
                 <div class="grid-row-2col">
                     <div class="place-start">
-                        <h2 class="display-3">Conservatory Roof Cleaning</h2>
                         <h2 class="display-3">
                             <div itemscope itemtype="https://schema.org/Service">
                             <meta itemprop="serviceType" content="Window cleaning" />
                             <span>Conservatory Roof Cleaning</span>
                             </div>
                         </h2>
-                        <p class="text-color-muted">Our conservatory roof cleaning service will restore your conservatory roof to its original condition! We begin by removing all moss and loose debris that has accumulated before using poles and brushes to thoroughly clean your conservatory roof. Afterwards, we use an anti-mould spray to keep your conservatory roof clean for even longer.</p>
+                        <p class="text-color-muted">Our conservatory roof cleaning service will restore your conservatory roof to its original condition! We begin by removing all moss and loose debris that has accumulated before using poles and brushes to thoroughly clean your conservatory roof.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/conservatory-cleaning.jpg" alt="">
                 </div>
@@ -149,7 +148,7 @@
                             <span>Roof Cleaning</span>
                             </div>
                         </h2>
-                        <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by removing all moss from your roof tiles, then utilise poles and brushes to thoroughly clean your roof using conventional methods.</p>
+                        <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by scraping away the moss followed by brushing away the left over material. Before using an anti-mould spray limit moss re growth.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/roof-cleaning.jpg" alt="">
                 </div>
@@ -172,14 +171,13 @@
             <div class="container my-4">
                 <div class="grid-row-2col">
                     <div class="place-start">
-                        <h2 class="display-3">Park Home Cleaning</h2>
                         <h2 class="display-3">
                             <div itemscope itemtype="https://schema.org/Service">
                             <meta itemprop="serviceType" content="Window cleaning" />
                             <span>Park Home Cleaning</span>
                             </div>
                         </h2>
-                        <p class="text-color-muted">Our Park Home cleaning service is comprehensive, therefore, we will not only clean your windows but also your exterior decking areas and spindles. This is all done by hand and guarantees that your park home cleaning is completed to the highest standards, something we are very proud of.</p>
+                        <p class="text-color-muted">Our Park Home cleaning service is comprehensive, therefore, we will not only clean your windows but also your exterior cladding, gutters, fascias, decking areas and spindles. This is all done by hand and guarantees that your park home cleaning is completed to the highest standards, something we are very proud of.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/lodge-cleaning.jpg" alt="">
                 </div>

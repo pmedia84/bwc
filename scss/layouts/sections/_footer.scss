@@ -18,7 +18,7 @@ footer{//footer outer container
 
 }
 .footer-container{//inner container for footer
-    padding: 1rem;
+    padding: 1rem 1rem 0 1rem;
     display: grid;
     gap: $spacer-1;
 
@@ -41,8 +41,13 @@ footer{//footer outer container
 
 .footer-copyright{
     border-top: 1px solid $primary;
+    padding: 0.5rem 0 ;
+    p{
+        margin-bottom: 0;
+    }
 }
 .footer-contact{
+    max-width: 320px;
     img{
         height: 1rem;
         align-self: flex-end;
@@ -51,8 +56,12 @@ footer{//footer outer container
         display: flex;
         justify-content: space-between;
         width: 100%;
-        max-width: 250px;
+        margin-bottom: 0.5rem;
+ 
 
+    }
+    .fb-logo{
+        height: 1.5rem;
     }
 }
 
@@ -70,6 +79,7 @@ footer{//footer outer container
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        align-items: center;
         grid-row:3/3;
         grid-column: 1/3;
     }

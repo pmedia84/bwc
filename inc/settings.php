@@ -13,7 +13,8 @@ $fromname = "Webmaster - Parrot Media"; /// Username and how you want your name 
 $emailheaderlogo = "https://www.parrotmedia.co.uk/img/pmedia-logo-new.png";//logo url for inserting into the top of email bodies
 
 //Contact details: Phone number, email address etc
-$contactnum ="07845 845857";
-$emailaddress = "luke@boltons";
+$contactnum ="07946 742580";
+$emailaddress = "luke@boltonswindowcleaning.co.uk";
 $facebookurl = "https://www.facebook.com/Boltons-Window-Cleaning-101418868199689";
 ?>
+

@@ -1,6 +1,6 @@
 <nav class="nav" role="navigation">
     <div class="nav-container">
-        <a href="index">
+        <a href="/">
             <div class="brand">
                 <?php include("./inc/logo.inc.php"); ?>
             </div>
@@ -8,7 +8,7 @@
         <div class="nav-links" id="nav-links">
             <ul class="nav-menu">
                 <li class="nav-link">
-                    <a href="index">Home</a>
+                    <a href="/">Home</a>
                 </li>
                 <li class="nav-link">
                     <a href="about">About Us</a>

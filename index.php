@@ -135,7 +135,7 @@
                 </div>
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Conservatory Roof Cleaning</h3>
-                    <p class="card-text text-color-white">Our Conservatory Roof Cleaning service will leave your conservatory roof looking as good as the day it was installed. Not only do we clean your conservatory roof, we also apply an anti-mould chemical to ensure your conservatory roof looks amazing for even longer.</p>
+                    <p class="card-text text-color-white">Our Conservatory Roof Cleaning service will leave your conservatory roof looking as good as the day it was installed, using traditional methods and environmentally friendly chemicals. </p>
                     <a href="services#conservatory-roof-cleaning">Find Out More</a>
                 </div>
             </div>

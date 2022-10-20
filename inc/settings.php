@@ -10,7 +10,7 @@ $pass = "rKrltTuvlQ"; /// Password
 $from = $username; ///Email
 
 $fromname = "Webmaster - Bolton's Window Cleaning"; /// Username and how you want your name to be displayed on emails
-$emailheaderlogo = "https://www.boltonswindowcleaning/assets/img/logo/logo-primary-col.png";//logo url for inserting into the top of email bodies
+$emailheaderlogo = "https://www.boltonswindowcleaning.co.uk/assets/img/logo/logo-primary-col.png";//logo url for inserting into the top of email bodies
 
 //Contact details: Phone number, email address etc
 $contactnum ="07946 742580";

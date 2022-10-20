@@ -46,9 +46,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/placeholder.jpg" alt="">
-                <img src="./assets/img/placeholder.jpg" alt="">
-                <img src="./assets/img/placeholder.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/placeholder.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/placeholder.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/placeholder.jpg" alt=""></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -70,9 +70,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/gutter-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/gutter-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/gutter-cleaning3.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/services/gutter-cleaning1.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/gutter-cleaning2.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/gutter-cleaning3.jpg" alt=""></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -98,9 +98,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/public-sector1.jpg" alt="">
-                <img src="./assets/img/services/public-sector2.jpg" alt="">
-                <img src="./assets/img/services/public-sector3.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/services/public-sector1.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/public-sector2.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/public-sector3.jpg" alt=""></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -126,9 +126,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/conservatory-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/conservatory-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/conservatory-cleaning3.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/services/conservatory-cleaning1.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/conservatory-cleaning2.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/conservatory-cleaning3.jpg" alt=""></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -154,9 +154,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/roof-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/roof-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/roof-cleaning3.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/services/roof-cleaning1.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/roof-cleaning2.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/roof-cleaning3.jpg" alt=""></div>
             </div>
 
         </section>
@@ -183,9 +183,9 @@
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/lodge-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/lodge-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/lodge-cleaning3.jpg" alt="">
+                <div class="img-wrapper"><img src="./assets/img/services/lodge-cleaning1.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/lodge-cleaning2.jpg" alt=""></div>
+                <div class="img-wrapper"><img src="./assets/img/services/lodge-cleaning3.jpg" alt=""></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">

@@ -144,16 +144,26 @@
 
 ////////
 
-//Services image grid, displays 3 images below the service feature
+/////Services image grid, displays 3 images below the service feature
 
 .services-img-grid{
     display: grid;
     gap: $spacer-3;
     padding: $spacer-5;
+    justify-items: center;
     @media(min-width:$md){
         grid-template-columns: 1fr 1fr 1fr;
     }
+
+}
+//wrap images in this to keep the aspect ratio of images the same size regardless if teh images are portrait or landscape
+.img-wrapper{
+    aspect-ratio: 1/1;
+    max-height: 500px;
     img{
         height: 100%;
+        object-fit: cover;
+        
     }
 }
+//////////////////////////////////////////////

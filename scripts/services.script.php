@@ -77,7 +77,7 @@ if($score >=0.7){//if the score is above 0.7 then proceed with the form submissi
             <p style="border-bottom:1px solid;"><strong>Email</strong>: ' . $email . ' </p>
             <p style="border-bottom:1px solid;"><strong>Phone No</strong>.: ' . $phone . ' </p>
             <p style="border-bottom:1px solid; line-height: 1.7; "><strong>Further Information</strong>: ' . $furtherinfo . ' </p>
-            <p style="border-bottom:1px solid;"><strong>Property Type</strong>: ' . $service . ' </p>
+            <p style="border-bottom:1px solid;"><strong>Service Required</strong>: ' . $service . ' </p>
         </div>
     </div>';
 
@@ -121,7 +121,7 @@ if($score >=0.7){//if the score is above 0.7 then proceed with the form submissi
         <p style="border-bottom:1px solid;"><strong>Service Requested</strong>: ' . $service . ' </p>
         <p>We always aim to respond to quotation requests within 24 to 48 hours. Should you wish to get hold of us sooner than this, please contact us on <strong>'.$contactnum.'</strong></p>
         <p><strong>Please note: This email account is not monitered, so please do not reply to this email.</strong></p>
-        <p>Note: we do not store your email in any database, this email is a confirmation of what you have requested from us. If you would like to recieve no further emails from us, please inform us by emailing info@boltons.com</p>
+        <p>Note: we do not store your email in any database, this email is a confirmation of what you have requested from us. If you would like to recieve no further emails from us, please inform us by emailing '.$emailaddress.'</p>
         <br><hr style="color:#03b0fa;">
         <p>Kind regards</p>
         <p><strong>Bolton\'s Window Cleaning</strong></p>

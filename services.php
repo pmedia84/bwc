@@ -228,7 +228,7 @@
                                 <label for="servicetype" class="form-label">Select Service:</label>
                                 <div class="form-col mb-3">
                                     <select class="form-select" aria-label="Default select example" name="servicetype" id="servicetype">
-                                        <option selected>Select Service</option>
+                                        <option value="" selected>Select Service</option>
                                         <option value="Window Cleaning">Window Cleaning</option>
                                         <option value="Gutter Cleaning">Gutter Cleaning</option>
                                         <option value="Public Sector">Public Sector</option>

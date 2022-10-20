@@ -144,7 +144,7 @@
 
 ////////
 
-//Services image grid, displays 3 images below the service
+//Services image grid, displays 3 images below the service feature
 
 .services-img-grid{
     display: grid;
@@ -152,5 +152,8 @@
     padding: $spacer-5;
     @media(min-width:$md){
         grid-template-columns: 1fr 1fr 1fr;
+    }
+    img{
+        height: 100%;
     }
 }

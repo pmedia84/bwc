@@ -231,7 +231,7 @@
                                         <option value="" selected>Select Service</option>
                                         <option value="Window Cleaning">Window Cleaning</option>
                                         <option value="Gutter Cleaning">Gutter Cleaning</option>
-                                        <option value="Public Sector">Public Sector</option>
+                                        <option value="Commercial">Commercial</option>
                                         <option value="Conservatory Roof Cleaning">Conservatory Roof Cleaning</option>
                                         <option value="Roof Cleaning">Roof Cleaning</option>
                                         <option value="Park Home Cleaning">Park Home Cleaning</option>

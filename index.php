@@ -66,9 +66,9 @@
                             <div class="form-col mb-3">
                                 <select class="form-select" aria-label="Default select example" name="propertytype" id="propertytype">
                                     <option value="">Select Property Type</option>
-                                    <option value="detached">Detached</option>
-                                    <option value="semi detached">Semi Detached</option>
-                                    <option value="bungalow">Bungalow</option>
+                                    <option value="Detached">Detached</option>
+                                    <option value="Semi Detached">Semi Detached</option>
+                                    <option value="Bungalow">Bungalow</option>
                                     <option value="Commercial">Commercial</option>
                                     <option value="Commercial">Park Home</option>
                                 </select>

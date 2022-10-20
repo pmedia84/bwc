@@ -4,13 +4,13 @@
 /// Define who the emails get sent to from forms filled out
 $email_to = "karl@parrotmedia.co.uk";
 
-$host = "dev.parrotmedia.co.uk"; /// Hostname
-$username = "admin@dev.parrotmedia.co.uk"; ///Username
-$pass = "Krb833908!"; /// Password
+$host = "mail.boltonswindowcleaning.co.uk"; /// Hostname
+$username = "admin@boltonswindowcleaning.co.uk"; ///Username
+$pass = "rKrltTuvlQ"; /// Password
 $from = $username; ///Email
 
-$fromname = "Webmaster - Parrot Media"; /// Username and how you want your name to be displayed on emails
-$emailheaderlogo = "https://www.parrotmedia.co.uk/img/pmedia-logo-new.png";//logo url for inserting into the top of email bodies
+$fromname = "Webmaster - Bolton's Window Cleaning"; /// Username and how you want your name to be displayed on emails
+$emailheaderlogo = "https://www.boltonswindowcleaning/assets/img/logo/logo-primary-col.png";//logo url for inserting into the top of email bodies
 
 //Contact details: Phone number, email address etc
 $contactnum ="07946 742580";

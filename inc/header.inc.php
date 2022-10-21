@@ -31,7 +31,9 @@
     <!-- /OG Meta Tags -->
     <!-- Google Analytics Tag -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-246515760-1"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XNGPDE3LX5"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -40,7 +42,6 @@
         }
         gtag('js', new Date());
 
-        gtag('config', 'UA-246515760-1');
+        gtag('config', 'G-XNGPDE3LX5');
     </script>
-
     <!-- Everything above this is for the head element. And is displayed on every web page -->

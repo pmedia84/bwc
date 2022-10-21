@@ -29,4 +29,18 @@
     <meta property="og:url" content="">
     <meta property="og:type" content="Website">
     <!-- /OG Meta Tags -->
+    <!-- Google Analytics Tag -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-246515760-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-246515760-1');
+    </script>
+
     <!-- Everything above this is for the head element. And is displayed on every web page -->

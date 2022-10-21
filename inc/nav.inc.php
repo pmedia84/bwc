@@ -14,7 +14,7 @@
                     <a href="about">About Us</a>
                 </li>
                 <li class="nav-link">
-                    <a href="services">Services</a>
+                    <a href="window-cleaning-services-cambridgeshire">Services</a>
                 </li>
                 <li class="nav-link">
                     <a href="contact">Contact</a>

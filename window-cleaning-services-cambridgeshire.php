@@ -9,7 +9,7 @@
 <meta property="og:image" content="your_image_url">
 <!-- /OG Meta Tags -->
 <!-- Page Title -->
-<title>Window and Gutter Cleaning Services in Cambridgeshire and Norfolk | Services - Bolton's Window Cleaning</title>
+<title>Window and Gutter Cleaning Services in Cambridgeshire and Norfolk | Bolton's Window Cleaning</title>
 <!-- /Page Title -->
 </head>
 

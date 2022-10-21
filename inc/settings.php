@@ -2,7 +2,7 @@
 //email settings for contact forms
 //Settings for all form scripts
 /// Define who the emails get sent to from forms filled out
-$email_to = "karl@parrotmedia.co.uk";
+$email_to = "luke@boltonswindowcleaning.co.uk";
 
 $host = "mail.boltonswindowcleaning.co.uk"; /// Hostname
 $username = "admin@boltonswindowcleaning.co.uk"; ///Username

@@ -13,7 +13,7 @@
     "build": "npm run css",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o assets/css/",
     "css-lint": "stylelint scss/",
-    "css-prefix": "postcss --replace assets/css/styles.css --use autoprefixer --map",
+    "css-prefix": "postcss --replace assets/css/styles.css --use autoprefixer",
     "css-purge": "purgecss --keyframes --css assets/css/styles.css --content index.php \"node_modules/bootstrap/js/dist/{util,modal}.js\" --output assets/css/",
     "css": "npm-run-all css-compile css-prefix",
     "server": "live-server --port=3000",

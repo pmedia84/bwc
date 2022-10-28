@@ -150,7 +150,7 @@
                                 <span>Roof Cleaning</span>
                             </div>
                         </h2>
-                        <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by scraping away the moss followed by brushing away the left over material. Before using an anti-mould spray limit moss re growth.</p>
+                        <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by scraping away the moss followed by brushing away the left over material. Before using an anti-mould spray To limit moss re growth.</p>
                     </div>
                     <img class="border-std" src="./assets/img/services/roof-cleaning.jpg" alt="">
                 </div>

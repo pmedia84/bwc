@@ -106,7 +106,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Window Cleaning</h3>
                     <p class="card-text text-color-white">Our primary service is Window Cleaning, we cover Cambridgeshire and Norfolk. Using traditional methods we take pride in what we do and our Window Cleaning service will leave your windows sparkling clean!</p>
-                    <a href="services#window-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#window-cleaning">Find Out More</a>
                 </div>
             </div>
             <div class="card-horizontal-outer mb-3">
@@ -116,7 +116,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Gutter Cleaning</h3>
                     <p class="card-text text-color-white">Our Gutter Cleaning service will leave not only your gutters looking as good as new, but also your fascia's and soffits too!</p>
-                    <a href="services#gutter-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#gutter-cleaning">Find Out More</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -126,7 +126,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Roof Cleaning</h3>
                     <p class="card-text text-color-white">We ensure a perfect finish with our Roof Cleaning service, making sure we remove all moss before we clean your roof using traditional methods.</p>
-                    <a href="services#roof-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#roof-cleaning">Find Out More</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -136,7 +136,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Conservatory Roof Cleaning</h3>
                     <p class="card-text text-color-white">Our Conservatory Roof Cleaning service will leave your conservatory roof looking as good as the day it was installed, using traditional methods and environmentally friendly chemicals. </p>
-                    <a href="services#conservatory-roof-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#conservatory-roof-cleaning">Find Out More</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -146,7 +146,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Park Home Cleaning</h3>
                     <p class="card-text text-color-white">Our Park Home cleaning service can not only clean your windows but all of your external surfaces and hand rails.</p>
-                    <a href="services#park-home-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshires#park-home-cleaning">Find Out More</a>
                 </div>
             </div>
         </div>

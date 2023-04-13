@@ -3,6 +3,7 @@
 <meta name="description" content="Find out a bit more about Bolton's Window Cleaning">
 <meta name="title" content="Bolton's Window Cleaning - About Us">
 <!-- /Meta Tags -->
+<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/about">
 <!-- OG Meta Tags -->
 <meta property="og:title" content="Bolton's Window Cleaning">
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
@@ -95,7 +96,7 @@
                     <div class="card-outer border-0">
                         <div class="card-body">
                             <h2 class="card-title text-color-white">How We Work</h2>
-                            <p class="card-text text-color-white">Once you are happy with a quotation that we provide, we will the commence your cleaning schedule as agreed. We will also contact you first to make sure you are going to be at home. Our methods are using traditional poles and ladders, we find this gives a great finish and we also glean your plastic frames as well. Payment can be by cash or bank transfer.</p>
+                            <p class="card-text text-color-white">Once you are happy with a quotation that we provide, we will then commence your cleaning schedule as agreed. We will also contact you first to make sure you are going to be at home. Our methods are using traditional poles and ladders, we find this gives a great finish and we also clean your plastic frames as well. Payment can be by cash or bank transfer.</p>
                             <a href="contact">Contact Us</a>
                         </div>
                     </div>

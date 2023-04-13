@@ -3,6 +3,7 @@
 <meta name="description" content="Your friendly and reliable window cleaning company">
 <meta name="title" content="Bolton's Window Cleaning - About Us">
 <!-- /Meta Tags -->
+<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/contact">
 <!-- OG Meta Tags -->
 <meta property="og:title" content="Bolton's Window Cleaning">
 <meta property="og:description" content="Your friendly and reliable window cleaning company">

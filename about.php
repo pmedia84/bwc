@@ -3,11 +3,10 @@
 <meta name="description" content="Find out a bit more about Bolton's Window Cleaning">
 <meta name="title" content="Bolton's Window Cleaning - About Us">
 <!-- /Meta Tags -->
-<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/about">
+<link rel="canonical" href="https://<?=$domain_name;?>/about">
 <!-- OG Meta Tags -->
 <meta property="og:title" content="Bolton's Window Cleaning">
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
-<meta property="og:image" content="your_image_url">
 <!-- /OG Meta Tags -->
 <!-- Page Title -->
 <title>Bolton's Window Cleaning</title>

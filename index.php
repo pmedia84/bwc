@@ -3,7 +3,7 @@
 <meta name="description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <meta name="title" content="Window and Gutter Cleaning for Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <!-- /Meta Tags -->
-<link rel="canonical" href="https://www.<?= $_SERVER['SERVER_NAME']; ?>/">
+<link rel="canonical" href="https://<?=$domain_name;?>">
 <!-- / -->
 <!-- Page Title -->
 <title>Window Cleaning Services for Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>

@@ -5,7 +5,7 @@
 <!-- /Meta Tags -->
 <link rel="canonical" href="https://<?=$domain_name;?>/privacy">
 <!-- OG Meta Tags -->
-<meta property="og:title" content="Bolton's Window Cleaning">
+<meta property="og:title" content="Bolton's Window Cleaning Privacy Policy">
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
 <meta property="og:image" content="your_image_url">
 <!-- /OG Meta Tags -->

@@ -55,32 +55,32 @@
             <div class="grid-row-3col my-3">
                 <div class="card-outer">
                     <div class="card-imgcap">
-                        <img src="./assets/img/services/window-cleaning.jpg" alt="">
+                        <img src="./assets/img/services/window-cleaning.jpg" alt="Window cleaning services from Boltons Window Cleaning">
                     </div>
                     <div class="card-body">
                         <h3 class="card-title">Window Cleaning</h3>
                         <p class="card-text text-color-muted">Our window cleaning service for Cambridgeshire and Norfolk. This is our primary service and is where we started our business in 2015! We pride ourselves in this service and we pay attention to every detail. From the traditional methods we use such as ladders, poles and squeegees to the way we also clean your window frames and not just the glass. Giving you a streak free finish for your windows and doors at home. </p>
-                        <a href="services#window-cleaning">Find out More</a>
+                        <a href="window-cleaning-services-cambridgeshire#window-cleaning">Find out More</a>
                     </div>
                 </div>
                 <div class="card-outer">
                     <div class="card-imgcap">
-                        <img src="./assets/img/services/gutter-cleaning.jpg" alt="">
+                        <img src="./assets/img/services/gutter-cleaning.jpg" alt="Gutter cleaning services from Boltons Window Cleaning">
                     </div>
                     <div class="card-body">
                         <h3 class="card-title">Gutter Cleaning</h3>
                         <p class="card-text text-color-muted">Our gutter cleaning service will leave not only your gutters looking as good as the day they were installed, our gutter cleaning service will also leave your fascia's and soffits looking spotless too. We use a gutter vac to remove all the debris that has built up such as leaves and moss from your roof, and then we will clean with poles and brushes leaving an amazing finish.</p>
-                        <a href="services#gutter-cleaning">Find out More</a>
+                        <a href="window-cleaning-services-cambridgeshire#gutter-cleaning">Find out More</a>
                     </div>
                 </div>
                 <div class="card-outer">
                     <div class="card-imgcap">
-                        <img src="./assets/img/services/conservatory-cleaning.jpg" alt="">
+                        <img src="./assets/img/services/conservatory-cleaning.jpg" alt="Conservatory Roof Cleaning from Boltons Window Cleaning">
                     </div>
                     <div class="card-body">
                         <h3 class="card-title">Conservatory Roof Cleaning</h3>
                         <p class="card-text text-color-muted">Our conservatory roof cleaning service will leave your conservatory looking sparkling new. And we also apply an anti-mould treatment to make sure your conservatory roof looks amazing for even longer.</p>
-                        <a href="services#conservatory-roof-cleaning">Find out More</a>
+                        <a href="window-cleaning-services-cambridgeshire#conservatory-roof-cleaning">Find out More</a>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
         <div class="container-fw bg-tertiary-col">
             <div class="row my-3">
                 <div class="col-50">
-                    <img src="./assets/img/van2.jpg" alt="">
+                    <img src="./assets/img/van2.jpg" alt="Boltons Window Cleaning - Our Van">
                 </div>
                 <div class="col-50">
                     <div class="card-outer border-0">

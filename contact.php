@@ -1,11 +1,11 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
 <meta name="description" content="Your friendly and reliable window cleaning company">
-<meta name="title" content="Bolton's Window Cleaning - About Us">
+<meta name="title" content="Bolton's Window Cleaning - Contact Us">
 <!-- /Meta Tags -->
 <link rel="canonical" href="https://<?=$domain_name;?>/contact">
 <!-- OG Meta Tags -->
-<meta property="og:title" content="Bolton's Window Cleaning">
+<meta property="og:title" content="Contact Bolton's Window Cleaning">
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
 <!-- /OG Meta Tags -->
 <!-- Page Title -->

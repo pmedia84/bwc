@@ -1,12 +1,12 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
 <meta name="description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
-<meta name="title" content="Window and Gutter Cleaning for Cambridgeshire and Norfolk - Bolton's Window Cleaning">
+<meta name="title" content="Window and Gutter Cleaning in Cambridgeshire and Norfolk">
 <!-- /Meta Tags -->
 <link rel="canonical" href="https://<?=$domain_name;?>">
 <!-- / -->
 <!-- Page Title -->
-<title>Window Cleaning Services for Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
+<title>Window Cleaning in Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
 <!-- /Page Title -->
 </head>
 

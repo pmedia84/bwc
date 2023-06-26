@@ -1,7 +1,7 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
 <meta name="description" content="Your friendly and reliable window cleaning company">
-<meta name="title" content="Bolton's Window Cleaning - About Us">
+<meta name="title" content="Bolton's Window Cleaning - Our Window Cleaning Services">
 <link rel="canonical" href="https://<?=$domain_name;?>/window-cleaning-services-cambridgeshire">
 <!-- /Meta Tags -->
 <!-- OG Meta Tags -->

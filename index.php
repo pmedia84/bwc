@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://<?=$domain_name;?>">
 <!-- / -->
 <!-- Page Title -->
-<title>Window Cleaning in Cambridgeshire and Norfolk - Bolton's Window Cleaning</title>
+<title>Window Cleaning in Cambridgeshire and Norfolk</title>
 <!-- /Page Title -->
 </head>
 
@@ -146,7 +146,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Park Home Cleaning</h3>
                     <p class="card-text text-color-white">Our Park Home cleaning service can not only clean your windows but all of your external surfaces and hand rails.</p>
-                    <a href="window-cleaning-services-cambridgeshires#park-home-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#park-home-cleaning">Find Out More</a>
                 </div>
             </div>
         </div>

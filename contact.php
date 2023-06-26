@@ -127,7 +127,7 @@
                             <p class="card-text text-color-muted">We are available on the phone number below, or you can email us. Alternatively, you can use the message us now button.</p>
                             <div class="contact-details">
                                 <div class="contact-details-item">
-                                    <span><i class="fa-solid fa-phone"></i></span><span><a href="<?= $contactnum; ?>"><?= $contactnum; ?></a></span>
+                                    <span><i class="fa-solid fa-phone"></i></span><span><a href="tel:<?=$contactnum;?>"><?=$contactnum;?></a></span>
                                 </div>
                                 <div class="contact-details-item">
                                     <span><i class="fa-solid fa-at"></i></span><span><a href="mailto:<?= $emailaddress; ?>"><?= $emailaddress; ?></a></span>

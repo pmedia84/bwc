@@ -1,7 +1,7 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
 <meta name="description" content="Your friendly and reliable window cleaning company">
-<meta name="title" content="Bolton's Window Cleaning - Our Window Cleaning Services">
+<meta name="title" content="Window and Gutter Cleaning in Cambridgeshire and Norfolk">
 <link rel="canonical" href="https://<?=$domain_name;?>/window-cleaning-services-cambridgeshire">
 <!-- /Meta Tags -->
 <!-- OG Meta Tags -->
@@ -9,7 +9,7 @@
 <meta property="og:description" content="Your friendly and reliable window cleaning company">
 <!-- /OG Meta Tags -->
 <!-- Page Title -->
-<title>Window and Gutter Cleaning Services in Cambridgeshire and Norfolk | Bolton's Window Cleaning</title>
+<title>Window and Gutter Cleaning in Cambridgeshire and Norfolk</title>
 <!-- /Page Title -->
 </head>
 

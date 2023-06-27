@@ -3,7 +3,7 @@
 <meta name="description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <meta name="title" content="Window and Gutter Cleaning in Cambridgeshire and Norfolk">
 <!-- /Meta Tags -->
-<link rel="canonical" href="https://<?=$domain_name;?>">
+<link rel="canonical" href="https://<?= $domain_name; ?>">
 <!-- / -->
 <!-- Page Title -->
 <title>Window Cleaning in Cambridgeshire and Norfolk</title>
@@ -35,7 +35,7 @@
                             <span itemprop="areaServed" itemscope itemtype="https://schema.org/State">
                                 <span itemprop="name">Norfolk</span>
                             </span>
-                             We are a small business focussed on providing a first class service to domestic, commercial and public sector clients.
+                            We are a small business focussed on providing a first class service to domestic, commercial and public sector clients.
                         </p>
                     </div>
 
@@ -172,7 +172,7 @@
 
 
 
-                        <img src="<?= $img ?>" alt="">
+                        <img src="<?= $img ?>" alt="Window and Gutter Cleaning services from Boltons Window Cleaning">
                 <?php endforeach;
                 };
                 ?>

@@ -42,13 +42,13 @@
                         </h2>
                         <p class="text-color-muted">Our window cleaning service is available in Cambridgeshire and Norfolk. This is our primary service, and it is where we began in 2015! We take pride in this service and pay close attention to every detail. We clean your window frames and sills as well as the glass panes, using traditional methods such as ladders, and squeegees. Providing you a streak-free finish on your home's windows and doors.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/window-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/window-cleaning.jpg" alt="Window cleaning services from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/placeholder.jpg" alt="">
-                <img src="./assets/img/placeholder.jpg" alt="">
-                <div class="img-wrapper"><img src="./assets/img/placeholder.jpg" alt=""></div>
+                <img src="./assets/img/placeholder.jpg" alt="Placeholder Image">
+                <img src="./assets/img/placeholder.jpg" alt="Placeholder Image">
+                <div class="img-wrapper"><img src="./assets/img/placeholder.jpg" alt="Placeholder Image"></div>
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -68,13 +68,13 @@
                         </h2>
                         <p class="text-color-muted">Our gutter cleaning service will not only leave your gutters looking as good as the day they were installed, but it will also leave your fascias and soffits looking pristine. We also utilise a gutter vac to remove all of the debris that has accumulated, such as leaves and moss. To finish, we then clean your gutters, fascias and soffits by hand.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/gutter-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/gutter-cleaning.jpg" alt="Gutter cleaning services from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/gutter-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/gutter-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/gutter-cleaning3.jpg" alt="">
+                <img src="./assets/img/services/gutter-cleaning1.jpg" alt="Picture showing Gutters after a clean from Boltons Window Cleaning">
+                <img src="./assets/img/services/gutter-cleaning2.jpg" alt="Picture showing Gutters before a clean from Boltons Window Cleaning">
+                <img src="./assets/img/services/gutter-cleaning3.jpg" alt="Picture showing Gutters before a clean from Boltons Window Cleaning">
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -96,13 +96,13 @@
                         </h2>
                         <p class="text-color-muted">We are delighted to work with a growing number of schools, providing them with window cleaning services. We also have a growing number of medical centres, such as doctor's and dentist's surgeries. We can provide flexibility and work on monthly or annual rotations.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/public-sector-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/public-sector-cleaning.jpg" alt="Commercial and Schools window cleaning from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/public-sector1.jpg" alt="">
-                <img src="./assets/img/services/public-sector2.jpg" alt="">
-                <img src="./assets/img/services/public-sector3.jpg" alt="">
+                <img src="./assets/img/services/public-sector1.jpg" alt="Commercial and Schools window cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/public-sector2.jpg" alt="Commercial and Schools window cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/public-sector3.jpg" alt="Commercial and Schools window cleaning from Boltons Window Cleaning">
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -124,13 +124,13 @@
                         </h2>
                         <p class="text-color-muted">Our conservatory roof cleaning service will restore your conservatory roof to its original condition! We begin by removing all moss and loose debris that has accumulated before using poles and brushes to thoroughly clean your conservatory roof.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/conservatory-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/conservatory-cleaning.jpg" alt="Conservatory roof cleaning from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/conservatory-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/conservatory-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/conservatory-cleaning3.jpg" alt="">
+                <img src="./assets/img/services/conservatory-cleaning1.jpg" alt="Conservatory roof cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/conservatory-cleaning2.jpg" alt="Conservatory roof cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/conservatory-cleaning3.jpg" alt="Conservatory roof cleaning from Boltons Window Cleaning">
             </div>
             <div class="container-fw">
                 <div class="cta-fw">
@@ -152,13 +152,13 @@
                         </h2>
                         <p class="text-color-muted">Your roof will be transformed by our roof cleaning service! We begin by scraping away the moss followed by brushing away the left over material. Before using an anti-mould spray to limit moss re growth.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/roof-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/roof-cleaning.jpg" alt="House Roof cleaning, before and after from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/roof-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/roof-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/roof-cleaning3.jpg" alt="">
+                <img src="./assets/img/services/roof-cleaning1.jpg" alt="House Roof cleaning, before from Boltons Window Cleaning">
+                <img src="./assets/img/services/roof-cleaning2.jpg" alt="House Roof cleaning, after from Boltons Window Cleaning">
+                <img src="./assets/img/services/roof-cleaning3.jpg" alt="House Roof cleaning, during the clean from Boltons Window Cleaning">
             </div>
 
         </section>
@@ -181,13 +181,13 @@
                         </h2>
                         <p class="text-color-muted">Our Park Home cleaning service is comprehensive, therefore, we will not only clean your windows but also your exterior cladding, gutters, fascias, decking areas and spindles. This is all done by hand and guarantees that your park home cleaning is completed to the highest standards, something we are very proud of.</p>
                     </div>
-                    <img class="border-std" src="./assets/img/services/lodge-cleaning.jpg" alt="">
+                    <img class="border-std" src="./assets/img/services/lodge-cleaning.jpg" alt="Lodge cleaning from Boltons Window Cleaning">
                 </div>
             </div>
             <div class="services-img-grid container-fw bg-tertiary-col-v2 py-4">
-                <img src="./assets/img/services/lodge-cleaning1.jpg" alt="">
-                <img src="./assets/img/services/lodge-cleaning2.jpg" alt="">
-                <img src="./assets/img/services/lodge-cleaning3.jpg" alt="">
+                <img src="./assets/img/services/lodge-cleaning1.jpg" alt="Lodge cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/lodge-cleaning2.jpg" alt="Lodge cleaning from Boltons Window Cleaning">
+                <img src="./assets/img/services/lodge-cleaning3.jpg" alt="Lodge cleaning from Boltons Window Cleaning">
             </div>
             <div class="container-fw">
                 <div class="cta-fw">

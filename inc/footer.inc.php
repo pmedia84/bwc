@@ -18,9 +18,9 @@
         <div class="footer-contact">
             <h2>Contact Us</h2>
             <ul>
-                <li><img src="./assets/img/icons/phone.svg" alt=""><a href="tel:+<?=$contactnum;?>"><?=$contactnum;?></a></li>
-                <li><img src="./assets/img/icons/email.svg" alt=""><a href="mailto:<?=$emailaddress;?>"><?=$emailaddress;?></a></li>
-                <li><img class="fb-logo" src="./assets/img/icons/facebook.svg" alt=""><a href="<?=$facebookurl;?>" target="_blank">Facebook</a></li>
+                <li><img src="./assets/img/icons/phone.svg" alt="Phone Icon"><a href="tel:+<?=$contactnum;?>"><?=$contactnum;?></a></li>
+                <li><img src="./assets/img/icons/email.svg" alt="Email Icon"><a href="mailto:<?=$emailaddress;?>"><?=$emailaddress;?></a></li>
+                <li><img class="fb-logo" src="./assets/img/icons/facebook.svg" alt="Facebook Icon"><a href="<?=$facebookurl;?>" target="_blank">Facebook</a></li>
             </ul>
         </div>
 

@@ -1,12 +1,16 @@
 <?php include("./inc/header.inc.php"); ?>
 <!-- Meta Tags For Each Page -->
-<meta name="description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
+<meta name="description" content="Window and gutter cleaning services from your friendly and reliable window cleaning company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
 <meta name="title" content="Window and Gutter Cleaning in Cambridgeshire and Norfolk">
 <!-- /Meta Tags -->
 <link rel="canonical" href="https://<?= $domain_name; ?>">
 <!-- / -->
+<!-- OG Meta Tags -->
+<meta property="og:title" content="Window and Gutter Cleaning in Cambridgeshire and Norfolk">
+<meta property="og:description" content="Window and gutter cleaning services from your friendly and reliable company, we cover Cambridgeshire and Norfolk - Bolton's Window Cleaning">
+<!-- /OG Meta Tags -->
 <!-- Page Title -->
-<title>Window Cleaning in Cambridgeshire and Norfolk</title>
+<title>Window and Gutter Cleaning services in Cambridgeshire and Norfolk</title>
 <!-- /Page Title -->
 </head>
 
@@ -116,7 +120,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Gutter Cleaning</h3>
                     <p class="card-text text-color-white">Our Gutter Cleaning service will leave not only your gutters looking as good as new, but also your fascia's and soffits too!</p>
-                    <a href="window-cleaning-services-cambridgeshire#gutter-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#gutter-cleaning">Find out about our gutter cleaning service</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -126,7 +130,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Roof Cleaning</h3>
                     <p class="card-text text-color-white">We ensure a perfect finish with our Roof Cleaning service, making sure we remove all moss before we clean your roof using traditional methods.</p>
-                    <a href="window-cleaning-services-cambridgeshire#roof-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#roof-cleaning">Find out about our roof cleaning service</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -136,7 +140,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Conservatory Roof Cleaning</h3>
                     <p class="card-text text-color-white">Our Conservatory Roof Cleaning service will leave your conservatory roof looking as good as the day it was installed, using traditional methods and environmentally friendly chemicals. </p>
-                    <a href="window-cleaning-services-cambridgeshire#conservatory-roof-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#conservatory-roof-cleaning">Find out about our conservatory roof cleaning</a>
                 </div>
             </div>
             <div class="card-horizontal-outer my-3">
@@ -146,7 +150,7 @@
                 <div class="card-horizontal-body bg-droplets-img text-color-primary">
                     <h3 class="card-title">Park Home Cleaning</h3>
                     <p class="card-text text-color-white">Our Park Home cleaning service can not only clean your windows but all of your external surfaces and hand rails.</p>
-                    <a href="window-cleaning-services-cambridgeshire#park-home-cleaning">Find Out More</a>
+                    <a href="window-cleaning-services-cambridgeshire#park-home-cleaning">Find out about our park home cleaning</a>
                 </div>
             </div>
         </div>
@@ -172,7 +176,7 @@
 
 
 
-                        <img src="<?= $img ?>" alt="Window and Gutter Cleaning services from Boltons Window Cleaning">
+                        <img src="<?= $img ?>" alt="Window and Gutter Cleaning services from Bolton's Window Cleaning">
                 <?php endforeach;
                 };
                 ?>

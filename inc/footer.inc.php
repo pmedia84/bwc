@@ -28,7 +28,7 @@
         <p>&copy; Bolton's Window Cleaning <?php echo date("Y"); ?></p>
 
         <div class="footer-creator-brand">
-            <p>Website created by <a href="http://www.parrotmedia.co.uk" target="blank">Parrot Media</a></p>
+            <p><a href="http://www.parrotmedia.co.uk" target="blank">Web design by Parrot Media</a></p>
         </div>
     </div>
 

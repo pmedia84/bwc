@@ -17,10 +17,6 @@ $post = json_decode(file_get_contents('php://input'), true);
 
 
 if (isset($_POST['token'])) {
-        //Recaptcha security test
-        $site_key = '6LcbZE8iAAAAADV2Np7Us0osEScWxYrChHvrFcKy'; //site key from recaptcha admin
-        $secret_key = '6LevFFEiAAAAAGcp7T8l6jqZwV1zvsEQPpcfCeVF';//secret key from recaptcha admin file
-        $url = "https://recaptchaenterprise.googleapis.com/v1/projects/boltonswindowcleaning/assessments?key=AIzaSyAEaMlBYNehfnIxTJ5ivJ3ehqyf-rBWGb0";
        
         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret_key.'&response='.$_POST['token']);//verify the response with the token generated from the user inout
     
